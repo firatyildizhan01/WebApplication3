@@ -21,6 +21,7 @@
         <div style="height:20px; width:700px; margin-left:300px; background-color: #FFFFFF;"ContentPlaceHolder1" runat="server"></div>
         <div style="height:20px; width:700px; margin-left:300px; background-color: #FFFFFF;"ContentPlaceHolder1" runat="server"></div>
         <div style="height:200px; width:200px; margin-left:300px; background-color: #CCFF66;">
+        <div style="height:200px; width:200px; margin-left:300px; background-color: #CCFF66;">
              <div style="height:350px; width:400px; margin-left:250px; background-color: #99CC00;"
                     
             <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
